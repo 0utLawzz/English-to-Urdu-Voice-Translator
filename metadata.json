@@ -1,0 +1,6 @@
+{
+  "name": "English to Urdu Voice Translator",
+  "description": "An elegant English to Urdu text and voice translator featuring high-quality AI accents, detailed pronunciation guides, an interactive offline dictionary, and a robust offline-first mode.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
